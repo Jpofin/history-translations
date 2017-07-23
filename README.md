@@ -1,6 +1,6 @@
 # Translations for OAS History
 
-Here is a collection of translations for the script OAS History which can be found [here](https://www.gmodstore.com/scripts/view/4214)
+This repo is a collection of localization translations for [OAS History](https://www.gmodstore.com/scripts/view/4214)
 
 If you find any errors with any translation or would like you suggest a translation
 please make a pull request!  Thank you
